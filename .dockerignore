@@ -1,0 +1,10 @@
+.git
+.gitignore
+.gitattributes
+
+.editorconfig
+
+node_modules
+nodemon.json
+
+**/*.log
